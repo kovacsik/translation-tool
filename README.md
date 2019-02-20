@@ -1,21 +1,20 @@
-# translation_tool
+## Description
 
-> Translation Tool
+> A translation tool to translate English into a specified language
 
-## Build Setup
+## Usage
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+```
+$ npm install
+$ npm run dev
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## How to use
+
+- Typing in the English box will automatically start translating using Google Translate
+- Changing the language from the drop down will automatically translate any text already in the English box
+
+## Live version
+
+Check out the live UI here:
+http://kovacsik-translation-tool.s3-website-us-east-1.amazonaws.com/
