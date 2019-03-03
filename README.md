@@ -1,6 +1,6 @@
 ## Description
 
-> A translation tool to translate English into a specified language
+> A translation tool to translate English into a specified language using Google Translate.  This was built in 6 hours as a challenge.
 
 ## Usage
 
